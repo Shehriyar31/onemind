@@ -1,38 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://1mindtrusteddealer.com/</loc>
-    <lastmod>2024-01-01</lastmod>
+    <loc>https://www.1mindexch.com/</loc>
+    <lastmod>2024-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.1mindexch.com/one-mind-banner.png</image:loc>
+      <image:title>1Mind Trusted Dealer - Premium Betting Exchange</image:title>
+      <image:caption>Professional betting exchange services and premium accounts</image:caption>
+    </image:image>
   </url>
   <url>
-    <loc>https://1mindtrusteddealer.com/#about</loc>
-    <lastmod>2024-01-01</lastmod>
+    <loc>https://www.1mindexch.com/#about</loc>
+    <lastmod>2024-12-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://1mindtrusteddealer.com/#services</loc>
-    <lastmod>2024-01-01</lastmod>
+    <loc>https://www.1mindexch.com/#services</loc>
+    <lastmod>2024-12-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://1mindtrusteddealer.com/#exchange</loc>
-    <lastmod>2024-01-01</lastmod>
+    <loc>https://www.1mindexch.com/#exchange</loc>
+    <lastmod>2024-12-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://1mindtrusteddealer.com/#partners</loc>
-    <lastmod>2024-01-01</lastmod>
+    <loc>https://www.1mindexch.com/#partners</loc>
+    <lastmod>2024-12-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://1mindtrusteddealer.com/#contact</loc>
-    <lastmod>2024-01-01</lastmod>
+    <loc>https://www.1mindexch.com/#contact</loc>
+    <lastmod>2024-12-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

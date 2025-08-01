@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://1mindtrusteddealer.com/sitemap.xml
+Sitemap: https://www.1mindexch.com/sitemap.xml
 
 # Crawl-delay
 Crawl-delay: 1
@@ -17,3 +17,10 @@ Allow: /#services
 Allow: /#exchange
 Allow: /#partners
 Allow: /#contact
+
+# Additional SEO directives
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
